@@ -39,13 +39,3 @@
 ###
 
 <p align="left">and if you want to add my discord you can click below or by adding my username its @starwalkingg</p>
-
-###
-
-<div align="left">
-  <a href="starwalkingg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
